@@ -1,0 +1,167 @@
+@font-face{
+  font-family: "inconsolata";
+  src: url(Inconsolata-Regular.ttf);
+}
+
+/*town {
+  display: flex;
+  flex-wrap: wrap; */
+}
+
+}
+
+.town{
+  position: relative;
+  height: 5650px;
+}
+
+body{
+  font-family: inconsolata, monospace;
+  font-size: 10pt;
+  display: block;
+  background-color: #c9d8f2;
+}
+
+#house1{
+  display: inline-block;
+  position: relative;
+  white-space: pre;
+  text-decoration: none;
+  color: #4086ff;
+}
+
+#house2{
+  display: inline-block;
+  position: relative;
+  white-space: pre;
+  color: #4086ff;
+}
+
+#house3{
+  display: inline-block;
+  position: relative;
+  white-space: pre;
+  color: #4086ff;
+}
+
+#house4{
+  display: inline-block;
+  position: relative;
+  white-space: pre;
+  color: #4086ff;
+}
+
+#house5{
+  display: inline-block;
+  position: relative;
+  white-space: pre;
+  color: #4086ff;
+}
+
+#house6{
+  display: inline-block;
+  position: relative;
+  white-space: pre;
+  color: #4086ff;
+}
+
+#house7{
+  display: inline-block;
+  position: relative;
+  white-space: pre;
+  color: #4086ff;
+}
+
+#house8{
+  display: inline-block;
+  position: relative;
+  white-space: pre;
+  color: #4086ff;
+}
+
+#house9{
+  display: inline-block;
+  position: relative;
+  white-space: pre;
+  color: #4086ff;
+}
+
+#house10{
+  display: inline-block;
+  position: relative;
+  white-space: pre;
+  color: #4086ff;
+}
+
+#mailbox1{
+  display: inline-block;
+  position: relative;
+  white-space: pre;
+  color: #4086ff;
+}
+
+#mailbox2 {
+  display: inline-block;
+  position: relative;
+  white-space: pre;
+  color: #4086ff;
+}
+
+#cat1{
+  display: inline-block;
+  position: relative;
+  white-space: pre;
+  color: #4086ff;
+}
+
+#cat2{
+  display: inline-block;
+  position: relative;
+  white-space: pre;
+  color: #4086ff;
+}
+
+#cat3{
+  display: inline-block;
+  position: relative;
+  white-space: pre;
+  color: #4086ff;
+}
+
+#rabbit1{
+  display: inline-block;
+  position: relative;
+  white-space: pre;
+  color: #4086ff;
+}
+
+#rabbit2{
+  display: inline-block;
+  position: relative;
+  white-space: pre;
+  color: #4086ff;
+}
+
+#jooyoung{
+position: fixed;
+right: 10px;
+bottom: 10px;
+color: #ff337e;
+opacity: 50%;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:visited {
+  color: #4086ff;
+}
+
+a:link {
+    color: #4086ff;
+  }
+
+a:hover {
+    color: #ff337e;
+  }

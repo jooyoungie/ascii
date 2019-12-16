@@ -1,0 +1,32 @@
+body{
+  font-family: inconsolata, monospace;
+  font-size: 10pt;
+  background-color: #c9d8f2;
+}
+
+#some-div:hover #some-element {
+  display: block;
+  width:10px;
+  height:10px;
+}
+
+#some-element {
+  display: none;
+  width: 50%;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:visited {
+  color: #4086ff;
+}
+
+a:link {
+    color: #4086ff;
+  }
+
+a:hover {
+    color: #ff337e;
+  }
